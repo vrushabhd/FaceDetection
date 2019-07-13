@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="ok">Ok</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="flashlight">FlashLight</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="face_detection">Face Detection</string>
+</resources>
